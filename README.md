@@ -1,2 +1,1 @@
-# buiquangmanhhp1999
-License Plate Recognition
+# License Plate Recognition
