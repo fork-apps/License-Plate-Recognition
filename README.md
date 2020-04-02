@@ -6,7 +6,7 @@ In order to detect licence, in this project I used YoloV3 object detection archi
 * **Step 2: Licence plate segmentation**<br/>
 The input is the image of the plate, I have to extract the character in input images. The result of this step, being used as input to the recognition phase. It is of great importance in a system of automatic reading of number plates.
 
-* **Step 3: Licence plate recognition**<br/>
+* **Step 3: Characters Classification**<br/>
 The recognition CNN model built by Keras has input from the images characters obtained at the end of the segmentation phase. The learning model that will be used for to read an image characters and to render the corresponding character.
 
 * **Step 4: Reformat License Plate**<br/>
