@@ -23,4 +23,18 @@ The plate can be splited to one or two part. So, reformat phase will be used to 
 ## Quick start
 ```python example.py -i image_path```
 
-## Result
+## ANPR that Works
+1. **Works on Plate with 2 rows**
+<p align="center">
+  <img width="600" height="300" src="https://github.com/buiquangmanhhp1999/License-Plate-Recognition/blob/master/example4.png">
+</p>
+
+2. **Works on Plate with 1 row**
+<p align="center">
+  <img width="600" height="300" src="https://github.com/buiquangmanhhp1999/License-Plate-Recognition/blob/master/example5.png">
+  
+3. **Works when Plate is at angle**
+<p align="center">
+  <img width="600" height="300" src="https://github.com/buiquangmanhhp1999/License-Plate-Recognition/blob/master/example2.png">
+</p>
+
