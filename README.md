@@ -20,7 +20,9 @@ The plate can be splited to one or two part. So, reformat phase will be used to 
 * Opencv3
 * Numpy
 
-## Quick start
+## Start
+You have to create have **yolov3 of weights, config file and file weight.h5 to predict characters**. After that, run the command
+<br/>
 ```python example.py -i image_path```
 
 ## ANPR that Works
