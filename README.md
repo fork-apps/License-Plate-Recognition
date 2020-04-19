@@ -21,7 +21,7 @@ The plate can be splited to one or two part. So, reformat phase will be used to 
 * Numpy
 
 ## Start
-You have to create have **yolov3 of weights, config file and file weight.h5 to predict characters**. After that, run the command
+You have to create **yolov3 of weights, config file and file weight.h5 to predict characters**. After that, run the command
 <br/>
 ```python example.py -i image_path```
 
